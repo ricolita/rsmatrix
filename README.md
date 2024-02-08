@@ -4,9 +4,9 @@ A simple cli for run matrix rain code effect
 # Run
 Clone and run code
 ```
-$ git clone https://github.com/ricolita/matrix-effect-on-terminal.git
-$ cd matrix-effect-on-terminal
-$ cargo run
+git clone https://github.com/ricolita/matrix-effect-on-terminal.git
+cd matrix-effect-on-terminal
+cargo run
 ```
 ## Build
 command for build code
